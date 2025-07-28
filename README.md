@@ -306,6 +306,21 @@ The system includes sample collections for validation:
 
 ---
 
+## 🏗️ **System Architecture**
+
+For a comprehensive understanding of the system design and component interactions, see our detailed architecture diagram:
+
+📊 **[View Complete Architecture Diagram](architecture_diagram.md)**
+
+The architecture diagram provides:
+- **Visual System Overview**: Complete data flow from input to output
+- **Component Breakdown**: Detailed view of each processing module
+- **Technical Implementation**: Technologies and libraries used
+- **Performance Metrics**: Constraint compliance and optimization details
+- **Innovation Highlights**: Key technical differentiators
+
+---
+
 ## 📄 **License & Usage**
 
 This solution is developed for the Adobe India Hackathon 2025. All code and documentation are provided for evaluation purposes.
