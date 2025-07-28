@@ -256,11 +256,6 @@ docker build --no-cache -t adobe-challenge-1b:teamDSA .
 
 ## 🔧 **Configuration & Customization**
 
-### **Persona Extension**
-Add new personas in `persona_analyzer.py`:
-```python
-"new_persona": ["keyword1", "keyword2", "domain_terms"]
-```
 
 ### **Relevance Tuning**
 Adjust scoring weights in `relevance_scorer.py`:
