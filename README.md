@@ -311,3 +311,9 @@ The system includes sample collections for validation:
 This solution is developed for the Adobe India Hackathon 2025. All code and documentation are provided for evaluation purposes.
 
 For questions or technical support, please refer to the approach_explanation.md for detailed methodology information.
+
+<img width="1780" height="624" alt="image" src="https://github.com/user-attachments/assets/84e24c34-b27e-40a0-99d5-4e02e9868d0b" />
+<img width="1864" height="651" alt="image" src="https://github.com/user-attachments/assets/6e615c21-b266-4778-ad26-8b93aab8da31" />
+
+
+
