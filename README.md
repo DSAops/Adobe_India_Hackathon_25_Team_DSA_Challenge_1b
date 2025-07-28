@@ -1,6 +1,13 @@
 # Adobe India Hackathon 2025 - Round 1B Solution
 ## Team DSA Challenge - Persona-Driven Document Intelligence
 
+### 🖼 **System Architecture & Workflow**
+<img width="5370" height="4170" alt="challenge_1b_system_overview" src="https://github.com/user-attachments/assets/d3e44784-df89-40e0-b680-94c325e776cb" />
+<img width="4770" height="4770" alt="challenge_1b_detailed_pipeline" src="https://github.com/user-attachments/assets/d4481832-a7ea-42ba-8eae-3efa4a235307" />
+
+
+
+
 ### 🎯 **Challenge Overview**
 This solution addresses Round 1B: "Connect What Matters — For the User Who Matters" challenge, implementing an intelligent document analyst that extracts and prioritizes the most relevant sections from PDF collections based on specific personas and their job-to-be-done requirements.
 
@@ -306,20 +313,6 @@ The system includes sample collections for validation:
 
 ---
 
-## 🏗️ **System Architecture**
-
-For a comprehensive understanding of the system design and component interactions, see our detailed architecture diagram:
-
-📊 **[View Complete Architecture Diagram](architecture_diagram.md)**
-
-The architecture diagram provides:
-- **Visual System Overview**: Complete data flow from input to output
-- **Component Breakdown**: Detailed view of each processing module
-- **Technical Implementation**: Technologies and libraries used
-- **Performance Metrics**: Constraint compliance and optimization details
-- **Innovation Highlights**: Key technical differentiators
-
----
 
 ## 📄 **License & Usage**
 
