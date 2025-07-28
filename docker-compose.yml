@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  adobe-challenge-1b:
+    build: .
+    container_name: adobe-hackathon-1b
+    volumes:
+      - ./Collection 1:/app/Collection 1
+      - ./Collection 2:/app/Collection 2
+      - ./Collection 3:/app/Collection 3
+      - ./Collection 4:/app/Collection 4
+      - ./Collection 5:/app/Collection 5
+      - ./output:/app/output
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    mem_limit: 4g
+    cpus: '2.0'
